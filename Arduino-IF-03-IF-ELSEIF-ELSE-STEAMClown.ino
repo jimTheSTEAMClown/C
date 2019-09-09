@@ -15,7 +15,7 @@ void setup() {
     Serial.print(x); 
     Serial.println(" is bigger than 12");
   }
-  elseif (x < 12)
+  else if (x < 12)
   {
     Serial.print("The number "); 
     Serial.print(x); 
