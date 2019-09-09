@@ -1,6 +1,6 @@
 // ============================================================================
 // Source: STEAM Clown - www.steamclown.org 
-// GitHub: https://github.com/jimTheSTEAMClown/arduinoCode
+// GitHub: https://github.com/jimTheSTEAMClown/C
 // Hacker: Jim Burnham - STEAM Clown, Engineer, Maker, Propmaster & Adrenologist 
 // This example code under the GNU Lesser General Public License v3.0
 // https://www.gnu.org/licenses/gpl-3.0.en.html
