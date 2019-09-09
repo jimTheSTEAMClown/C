@@ -1,5 +1,5 @@
 // Example “Ask A Question” Program
-int x = 44;
+int x = 42;
 
 void setup() {
   Serial.begin(9600);           // Use Serial Monitor to debug
