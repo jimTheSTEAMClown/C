@@ -1,5 +1,5 @@
 // Example Of “Ask A Question, Get 2 Answers/Choices” Program
-// Shows and IF / ELSE IF example
+// Shows and IF / ELSE example
 int x = 7;
 
 void setup() {
