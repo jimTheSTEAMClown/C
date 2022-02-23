@@ -14,6 +14,7 @@ void setup() {
     Serial.print(x); 
     Serial.println(" is bigger than 12");
   }
+  Serial.println("Done");
 }
 
 void loop() {
