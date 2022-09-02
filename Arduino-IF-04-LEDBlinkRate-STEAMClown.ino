@@ -11,6 +11,7 @@
 // Description:     adaptation of blink on http://arduino.cc/
 // Dependencies: 
 // Revision: 
+// Revision 0.06 - Updated comments for SVCTE Mechatronics Class 2022 - 09/02/2022
 // Revision 0.05 - Updated for SVCTE Mechatronics Class 2019 - 09/02/2019
 // Revision 0.04 - Updated for SVCTE Mechatronics Class 2018 - 09/07/2018
 // Revision 0.02 - Updated for SVCTE Mechatronics Class
