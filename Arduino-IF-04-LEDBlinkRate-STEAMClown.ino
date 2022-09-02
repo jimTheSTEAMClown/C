@@ -18,19 +18,7 @@
 // Additional Comments: 
 //
 // ============================================================================
-// ============================================================================
-// Source: STEAM Clown - www.steamclown.org 
-// GitHub: https://github.com/jimTheSTEAMClown/arduinoCode
-// Hacker: Jim Burnham - STEAM Clown, Engineer, Maker, Propmaster & Adrenologist 
-// This example code is licensed under the CC BY-NC-SA 3.0.
-// https://creativecommons.org/licenses/by-nc-sa/3.0/
-// Create Date:			09/10/2017 
-// Design Name:			steamClass_IF
-// Description:     adaptation of code on http://arduino.cc/
-// Dependencies: 
-//
-// Additional Comments: 
-//
+
 
 
 // ============================================================================
